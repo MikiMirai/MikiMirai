@@ -97,6 +97,8 @@ Frameworks:
 <br/>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge)
+![MAUI](https://img.shields.io/badge/MAUI-white?style=for-the-badge&logoColor=7D61E0&color=white&logo=.net)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -176,3 +178,7 @@ Game/3D:
 
 
 ![Miki Mirai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikiMirai&custom_title=Miki%20Mirai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+Credits:
+Profile template: [alsiam](https://github.com/alsiam/alsiam)
+Badges: [Shields.io](https://shields.io/badges)
