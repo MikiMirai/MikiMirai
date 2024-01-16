@@ -3,14 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 2 Unity games and a mobile app with MAUI
+- 🌱 I’m currently learning .NET MAUI, Python and Japanese
+- 👯 I’m looking to collaborate on game making
+- 🤔 I’m looking for help with our Mayhem Game
 -->
 
 <h2 align="center">
@@ -34,7 +30,7 @@ Here are some ideas to get you started:
   <samp>
     <a href="https://www.google.com/search?q=Miki+Mirai">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer 」
+    「 I am a full stack web/mobile application developer 」
     <br>
     <br>
   </samp>
@@ -69,8 +65,8 @@ Here are some ideas to get you started:
 <p>
  <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love writing code and learning new things<br/><br/>
  📧 &emsp; Reach me anytime: miraimikiproject@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/MikiMirai/MikiMirai/issues)
 
