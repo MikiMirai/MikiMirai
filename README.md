@@ -1,12 +1,5 @@
 <!--
 **MikiMirai/MikiMirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 2 Unity games and a mobile app with MAUI
-- 🌱 I’m currently learning .NET MAUI, Python and Japanese
-- 👯 I’m looking to collaborate on game making
-- 🤔 I’m looking for help with our Mayhem Game
 -->
 
 <h2 align="center">
@@ -28,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Miki+Mirai">「 Google Me 」</a>
-    <br>
     「 I am a full stack web/mobile application developer 」
     <br>
     <br>
