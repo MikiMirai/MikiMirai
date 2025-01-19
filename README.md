@@ -122,8 +122,9 @@ Creative:
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Kdenlive](https://img.shields.io/badge/kdenlive-FFF?style=for-the-badge&logo=kdenlive)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 Game/3D:
 <br/>
@@ -149,7 +150,7 @@ Game/3D:
 
 <p align="center">
   <a href="https://github.com/MikiMirai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikiMirai&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikiMirai&theme=radical&border=7F3FBF&background=0D1117" alt="Miki's GitHub streak"/>
   </a>
 </p>
 
